@@ -1,12 +1,22 @@
-priya varman
-just a simple profile page i made for myself. nothing fancy, a little intro, a cute chibi version of me, and a loading bar because honestly i'm still figuring things out.
+<div align="center">
+
+<br>
+
+<img src="chibi.png" width="160" />
+
+<br><br>
+
+### hi, i'm priya varman.
+*she is a work in progress.*
+
+<br>
+
+<img src="loading-bar.svg" width="220" />
+
 masterpiece loading ...
-files
 
-index.html — the page
-chibi.png — the dancing chibi girl (made with canva ai)
+<br><br>
 
-to run
-put both files in the same folder and open index.html in a browser. that's literally it.
-to host on github pages
-create a repo called yourusername.github.io, upload both files, and it'll be live at that url.
+[✨ visit my portfolio](https://your-portfolio-link.com)
+
+</div>
