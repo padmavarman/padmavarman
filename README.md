@@ -1,16 +1,18 @@
 <table>
-<tr>
-<td width="200">
-<img src="chibi.png" width="180" />
+<td width="300">
+<img src="chibi.png" width="300" />
 </td>
 <td>
-hi, i'm priya varman.
-she is a work in progress.
-<br><br>
-<img src="loading-bar.svg" width="180" />
-masterpiece loading ...
+Hi, I am Priya Varman!
 <br>
-✨ visit my portfolio
-</td>
-</tr>
+  <br>
+My Greatest work is in Progress.
+<br><br>
+<br><br>
+<img src="loading-bar.svg" width="120" />
+  
+<br><br>
+[✨ visit my portfolio](https://padmavarman.github.io/)
+
+</div>
 </table>
