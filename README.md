@@ -2,18 +2,18 @@
 
 <br>
 
-<img src="chibi.png" width="160" />
+<img src="chibi.png" width="200" />
 
 <br><br>
 
-### hi, i'm priya varman.
+### Hi, I'm priya varman.
 *she is a work in progress.*
 
 <br>
 
 <img src="loading-bar.svg" width="220" />
 
-masterpiece loading ...
+Masterpiece loading ...
 
 <br><br>
 
