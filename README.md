@@ -1,22 +1,16 @@
-<div align="center">
-
-<br>
-
-<img src="chibi.png" width="350" />
-
+<table>
+<tr>
+<td width="200">
+<img src="chibi.png" width="180" />
+</td>
+<td>
+hi, i'm priya varman.
+she is a work in progress.
 <br><br>
-
-### Hi, I'm priya varman.
-*she is a work in progress.*
-
+<img src="loading-bar.svg" width="180" />
+masterpiece loading ...
 <br>
-
-<img src="loading-bar.svg" width="220" />
-
-Masterpiece loading ...
-
-<br><br>
-
-[✨ visit my portfolio](https://your-portfolio-link.com)
-
-</div>
+✨ visit my portfolio
+</td>
+</tr>
+</table>
