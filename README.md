@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="chibi.png" width="200" />
+<img src="chibi.png" width="350" />
 
 <br><br>
 
