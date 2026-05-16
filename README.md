@@ -1,8 +1,5 @@
 <table>
-<td width="300">
-<img src="chibi.png" width="300" />
-</td>
-<td>
+
 Hi, I am Priya Varman!
 <br>
   <br>
